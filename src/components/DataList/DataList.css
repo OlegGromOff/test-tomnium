@@ -1,0 +1,15 @@
+.main_div {
+  border: 1px solid #fff;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.row {
+  display: flex;
+}
+
+p {
+  padding: 10px;
+  border: 1px solid #fff;
+  margin: 0;
+}
